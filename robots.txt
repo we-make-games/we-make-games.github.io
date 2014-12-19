@@ -1,0 +1,2 @@
+Sitemap: http://we-make-games.github.io/sitemapindex.xml
+

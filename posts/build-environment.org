@@ -1,0 +1,19 @@
+#+BEGIN_COMMENT
+.. title: Build Environment
+.. slug: build-environment
+.. date: 2014-12-19 22:23:57 UTC+01:00
+.. tags: c++
+.. link: 
+.. description:
+.. type: text
+#+END_COMMENT
+
+I have created a skeleton app that defines the most important dependencies of the final product so you can already test
+if you have all dependencies available to you. 
+Make sure to install make, cmake, gcc, SDL2, SDL2_mixer and SDL2_TTF.
+
+The result is a tiny sdl app that you can quit by typing "quit".
+
+This is also a good time to think about which text editor to use. 
+My favorite editor is emacs (http://www.gnu.org/software/emacs/) but you can use whatever editor works for you but it
+will most likely have neither tetris nor minesweper.

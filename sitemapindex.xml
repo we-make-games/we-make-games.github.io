@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://we-make-games.github.io/galleries/rss.xml</loc>
+  <loc>http://we-make-games.github.io/categories/c++.xml</loc>
   <lastmod>2014-12-19</lastmod>
  </sitemap>
  <sitemap>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>We Make Games</title><link>http://we-make-games.github.io/</link><description>Let's make some simple games together</description><atom:link href="http://we-make-games.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 19 Dec 2014 23:29:51 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Build Environment</title><link>http://we-make-games.github.io/posts/build-environment.html</link><dc:creator>Henry Hirsch</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>We Make Games</title><link>http://we-make-games.github.io/</link><description>Let's make some simple games together</description><atom:link href="http://we-make-games.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 19 Dec 2014 23:44:51 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Build Environment</title><link>http://we-make-games.github.io/posts/build-environment.html</link><dc:creator>Henry Hirsch</dc:creator><description>&lt;p&gt;
 I have created a skeleton app that defines the most important dependencies of the final product so you can already test
 if you have all dependencies available to you. 
-Make sure to install make, cmake, gcc, SDL2, SDL2\&lt;sub&gt;mixer&lt;/sub&gt; and SDL2\&lt;sub&gt;TTF&lt;/sub&gt;.
+Make sure to install make, cmake, gcc, tinyxml, SDL2, SDL2_&lt;sub&gt;mixer&lt;/sub&gt; and SDL2_&lt;sub&gt;TTF&lt;/sub&gt;.
 &lt;/p&gt;
 
 &lt;p&gt;

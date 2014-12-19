@@ -10,7 +10,7 @@
 
 I have created a skeleton app that defines the most important dependencies of the final product so you can already test
 if you have all dependencies available to you. 
-Make sure to install make, cmake, gcc, SDL2, SDL2\_mixer and SDL2\_TTF.
+Make sure to install make, cmake, gcc, tinyxml, SDL2, SDL2__mixer and SDL2__TTF.
 
 The result is a tiny sdl app that you can quit by typing "quit".
 
